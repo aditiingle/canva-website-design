@@ -1,0 +1,2 @@
+# canva-website-design
+This website was designed using Canva, integrating fundamental design principles such as color theory, typography, and visuals to create a cohesive and visually appealing experience.
