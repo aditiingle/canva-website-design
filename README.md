@@ -5,4 +5,5 @@ This is the link to the winter skii resort website I designed using Canva for th
 https://web-design-winter-resort-template.my.canva.site/
 
 Preview
+[Preview of Winter Skii Resort Website Design](https://github.com/aditiingle/canva-website-design/blob/main/previewOfWebsite.png)
 
